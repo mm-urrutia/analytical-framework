@@ -27,8 +27,9 @@ The primary goal of this project is to develop a framework for predicting custom
    - Removal of highly correlated variables to reduce multicollinearity  
 
 2. **Predictive Modelling**  
-   - Evaluated Logistic Regression, Random Forest, and XGBoost 
-   - Chose XGBoost as the best model, with accuracy of 0.94 and F1-score of 0.79
+   - Evaluated Logistic Regression, Random Forest, and XGBoost  
+   - Models compared using Accuracy, Precision, Recall, and F1-score  
+   - Chose XGBoost as the best-performing model, and applied it to the active (non-churn) customer base to predict churn scoring  
    - Applied SHAP values to interpret variable contributions  
 
 3. **Clustering Analysis**  
