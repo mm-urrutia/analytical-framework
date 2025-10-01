@@ -1,4 +1,4 @@
-# Customer Churn Prediction & Segmentation  
+# Analytical Framework: Transforming Technical Data into Business Value
 
 ## Dataset Overview  
 
